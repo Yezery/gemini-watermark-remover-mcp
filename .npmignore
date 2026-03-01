@@ -1,0 +1,8 @@
+src
+template
+*.ts
+*.map
+test
+.gitignore
+mcp.json
+PUBLISH.md
