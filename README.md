@@ -4,6 +4,12 @@ MCP server for removing Gemini AI watermarks from generated images.
 
 ## Local Stdio Mode
 
+> [!CAUTION]
+>
+> Due to **sharp** compilation limitations, if you are on **Linux** or **MacOS**, it is recommended to globally install it so that it can run properly.
+>
+> `npm install -g gemini-watermark-remover-mcp`
+
 ### Claude Desktop
 
 ```json
